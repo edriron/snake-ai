@@ -1,2 +1,4 @@
-Teach AI to play Snake.\n
+Teach AI to play Snake.
+
+
 • Reinforcement Learning and Deep Q Learning.
